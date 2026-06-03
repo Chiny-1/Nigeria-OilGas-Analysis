@@ -37,20 +37,6 @@ Nigeria_OilGas_Analysis/
 
 ---
 
-## 📂 Project Structure
-
-Nigeria_OilGas_Analysis/
-nigeria_oilgas_analysis.sql    # All SQL queries
-Analysis_Report.docx           # Full analysis report
-Nigeria_oilgas_dashboard.pbix  # Power BI dashboard
-Nigeria_oilgas_dashboard.pdf   # Exported dashboard
-nigeria_oilgas_analysis.db     # SQLite database
-Data/
-opec_monthly_production.csv    # Main dataset
-opec_country_summary.csv       # Summary table
-
----
-
 ## 📊 Dataset
 - **Source:** Kaggle (OPEC Oil Data on a Monthly Basis)
 - **File:** opec_monthly_production.csv
