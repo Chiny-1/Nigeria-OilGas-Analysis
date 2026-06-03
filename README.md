@@ -3,11 +3,19 @@
 
 ---
 
-## 📌 Project Overview
-This project analyzes Nigeria's crude oil production trends from 1973 to 2018 using monthly OPEC production data. 
-The analysis explores Nigeria's production history, its contribution to total OPEC output, and how it compares to other major oil-producing nations.
+## 📂 Project Structure
 
-This project was developed as part of a Data Analytics Portfolio to demonstrate proficiency in SQL, Power BI and data storytelling using real world energy sector data.
+```
+Nigeria_OilGas_Analysis/
+├── nigeria_oilgas_analysis.sql    # All SQL queries
+├── Analysis_Report.docx           # Full analysis report
+├── Nigeria_oilgas_dashboard.pbix  # Power BI dashboard
+├── Nigeria_oilgas_dashboard.pdf   # Exported dashboard
+├── nigeria_oilgas_analysis.db     # SQLite database
+└── Data/
+    ├── opec_monthly_production.csv    # Main dataset
+    └── opec_country_summary.csv       # Summary table
+```
 
 ---
 
